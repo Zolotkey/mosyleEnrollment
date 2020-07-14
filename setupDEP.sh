@@ -7,7 +7,7 @@ if [[ -z "${inDEP}" ]]; then
     echo "not in DEP"
 fi
 
-##Admin Supplied Varibales
+##Admin Supplied Variables
 # Enrollment Code to Device/User Group
 mosyleEnrollCode=""
 # Server URL to Your Business Assigned to you
