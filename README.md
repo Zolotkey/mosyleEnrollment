@@ -7,7 +7,7 @@ I needed a way to push out Mosyle via Munki to enroll certian devices into Mosyl
 
 ## setupDEP.sh
 
-This is what enrolls your Mac into Mosyle. You will need to edit the script with the Group Code you are trying to enroll in and the URL your server handles the enrollment. These are at lines 12 and 15. 
+This is what enrolls your Mac into Mosyle. You will need to edit the script with the Group Code you are trying to enroll in. 
 
 ## setupDEP_check.py
 
