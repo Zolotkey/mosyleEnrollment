@@ -1,3 +1,5 @@
+# Archived as I no longer use Mosyle.
+
 # mosyleEnrollment
 Scripts for Mosyle MDM/DEP Enrollment
 
